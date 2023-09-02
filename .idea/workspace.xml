@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="osgb_master" targetName="3.4outb3dm.cpp" />
+      <config projectName="osgb_master" targetName="osg" />
+      <config projectName="osgb_master" targetName="osgb_master" />
+      <config projectName="osgb_master" targetName="1.0header.cpp" />
+      <config projectName="osgb_master" targetName="3.2showopengl.cpp" />
+      <config projectName="osgb_master" targetName="glfw" />
+      <config projectName="osgb_master" targetName="2.3readtree.cpp" />
+      <config projectName="osgb_master" targetName="3.3outglb.cpp" />
+      <config projectName="osgb_master" targetName="2.2readosgb.cpp" />
+      <config projectName="osgb_master" targetName="update_mappings" />
+      <config projectName="osgb_master" targetName="iostrimg" />
+      <config projectName="osgb_master" targetName="dome" />
+      <config projectName="osgb_master" targetName="2.1context.cpp" />
+      <config projectName="osgb_master" targetName="3.1showosgb.cpp" />
+      <config projectName="osgb_master" targetName="glad" />
+      <config projectName="osgb_master" targetName="3.0opengl.cpp" />
+      <config projectName="osgb_master" targetName="uninstall" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2eff1894-0dad-4a38-9f3b-c30fac4929f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/2.1context.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/2.2readosgb.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/2.3readtree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.0opengl.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.1showosgb.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.2outb3dm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.2showopengl.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.3outglb.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.4outb3dm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.5tilejson.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.6filenum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.7tileset.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/3.8osgbtotile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dome" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libglad.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libglfw.3.4.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libglfw.3.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libglfw.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libjpeg.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/libosg.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/osgb_master" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2Tp0yBKBceqGS59zR8RK3WE9l5x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/excample" />
+      <recent name="$PROJECT_DIR$/data/out" />
+      <recent name="$PROJECT_DIR$/data/dome" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/osgb" />
+      <recent name="$PROJECT_DIR$/data/doc" />
+      <recent name="$PROJECT_DIR$/data/glb" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.3.4outb3dm.cpp">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1.0header.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="1.0header.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="1.0header.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.1context.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="2.1context.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="2.1context.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.2readosgb.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="2.2readosgb.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="2.2readosgb.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.3readtree.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="2.3readtree.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="2.3readtree.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3.0opengl.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="3.0opengl.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="3.0opengl.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3.1showosgb.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="3.1showosgb.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="3.1showosgb.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3.2showopengl.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="3.2showopengl.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="3.2showopengl.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3.3outglb.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="3.3outglb.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="3.3outglb.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3.4outb3dm.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="3.4outb3dm.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="3.4outb3dm.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dome" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="dome" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="dome">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glad" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="glad" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iostrimg" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="iostrimg" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="iostrimg">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="osg" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="osg" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="osgb_master" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="osgb_master" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="osgb_master" RUN_TARGET_NAME="osgb_master">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="update_mappings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="osgb_master" TARGET_NAME="update_mappings" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.dome" />
+      <item itemvalue="CMake Application.osg" />
+      <item itemvalue="CMake Application.osgb_master" />
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.glad" />
+      <item itemvalue="CMake Application.glfw" />
+      <item itemvalue="CMake Application.update_mappings" />
+      <item itemvalue="CMake Application.iostrimg" />
+      <item itemvalue="CMake Application.1.0header.cpp" />
+      <item itemvalue="CMake Application.2.1context.cpp" />
+      <item itemvalue="CMake Application.2.2readosgb.cpp" />
+      <item itemvalue="CMake Application.2.3readtree.cpp" />
+      <item itemvalue="CMake Application.3.0opengl.cpp" />
+      <item itemvalue="CMake Application.3.1showosgb.cpp" />
+      <item itemvalue="CMake Application.3.2showopengl.cpp" />
+      <item itemvalue="CMake Application.3.3outglb.cpp" />
+      <item itemvalue="CMake Application.3.4outb3dm.cpp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eff1894-0dad-4a38-9f3b-c30fac4929f8" name="Default Changelist" comment="" />
+      <created>1691724966920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691724966920</updated>
+      <workItem from="1691724968580" duration="15024000" />
+      <workItem from="1691799171524" duration="32156000" />
+      <workItem from="1691886033769" duration="11670000" />
+      <workItem from="1691974555785" duration="13892000" />
+      <workItem from="1692062042477" duration="13500000" />
+      <workItem from="1692147283850" duration="13669000" />
+      <workItem from="1692177619857" duration="3217000" />
+      <workItem from="1692233531110" duration="4532000" />
+      <workItem from="1692607789700" duration="3773000" />
+      <workItem from="1692676266816" duration="10230000" />
+      <workItem from="1692752222620" duration="21831000" />
+      <workItem from="1692838346696" duration="19517000" />
+      <workItem from="1693010022192" duration="20077000" />
+      <workItem from="1693095838454" duration="8350000" />
+      <workItem from="1693271286685" duration="585000" />
+      <workItem from="1693272063857" duration="15358000" />
+      <workItem from="1693301064122" duration="1430000" />
+      <workItem from="1693356821810" duration="11423000" />
+      <workItem from="1693379823907" duration="9851000" />
+      <workItem from="1693448596541" duration="2709000" />
+      <workItem from="1693476664339" duration="36000" />
+      <workItem from="1693568614551" duration="151000" />
+      <workItem from="1693616163190" duration="2763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/dome.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>36</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/excample/02-context/2.1context.cpp</url>
+          <line>347</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/dome.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/excample/02-context/2.1context.cpp</url>
+          <line>321</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/VecFormat.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Group.cpp</url>
+          <line>81</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Osgb.cpp</url>
+          <line>74</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/excample/02-context/2.2readosgb.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/excample/03-opengl/3.1showosgb.cpp</url>
+          <line>66</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/excample/03-opengl/3.1showosgb.cpp</url>
+          <line>60</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/excample/03-opengl/3.3outglb.cpp</url>
+          <line>23</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/excample/02-context/2.3readtree.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
